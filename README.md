@@ -10,7 +10,7 @@ tags:
 
 # Machine Learning Recipes with Josh Gordon
 
-Tensorflow,谷歌开发者 Josh Gordon自己做了一套视频教程，每月一更新，感觉讲解的非常好，下面是对应的网站和代码笔记。
+Tensorflow,谷歌开发者 Josh Gordon自己做了一套视频教程，每月一更新，下面是对应的网站和代码笔记。
 
 Follows the [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) series by [Google Developers](https://www.youtube.com/user/GoogleDevelopers).
 
