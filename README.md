@@ -18,6 +18,8 @@ Follows the [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/
 
 [Github-Josh Gordon](https://github.com/random-forests)
 
+[Bilibili-video-machine-learning-recipes with Josh Gordon](https://search.bilibili.com/all?keyword=Machine%20Learning%20Recipes)
+
 [中文字幕video-machine-learning-recipes with Josh Gordon](http://www.mooc.ai/course/96/learn?lessonid=634#lesson/634)
 
 # More information can be reference in the following 
