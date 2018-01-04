@@ -20,6 +20,8 @@ Follows the [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/
 
 [中文字幕video-machine-learning-recipes with Josh Gordon](http://www.mooc.ai/course/96/learn?lessonid=634#lesson/634)
 
+# More information can be reference in the following 
+
 [tutorials-Josh Gordon](https://github.com/random-forests/tutorials)
 
 [fyuanfen/Machine-Learning-Recipe](https://github.com/fyuanfen/Machine-Learning-Recipe)
