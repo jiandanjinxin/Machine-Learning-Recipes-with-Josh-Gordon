@@ -43,3 +43,4 @@ In this episode, we’ll write a basic pipeline for supervised learning with jus
 ## [Part 5 - Writing Our First Classifier](https://youtu.be/AoeEHqVSNOw)
 Welcome back! It's time to write our first classifier. This is a milestone if you’re new to machine learning. We'll start with our code from episode #4 and comment out the classifier we imported. Then, we'll code up a simple replacement - using a scrappy version of k-Nearest Neighbors
 ### [Code](https://github.com/fyuanfen/Machine-Learning-Recipe/blob/master/src/part_5/Part5.py)# Machine-Learning-Recipes-with-Josh-Gordon
+# Machine-Learning-Recipes-with-Josh-Gordon
